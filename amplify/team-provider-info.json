@@ -17,6 +17,9 @@
       },
       "api": {
         "cloudprojectceg": {}
+      },
+      "storage": {
+        "s3ea2b6fb4": {}
       }
     }
   }
